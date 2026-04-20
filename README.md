@@ -1,7 +1,6 @@
 # top-saas-directories
 Top 50 Free SaaS Directories to Submit Your Product in 2026
 # Top 50 Free SaaS Directories to Submit Your Product
-# Top 50 Free SaaS Directories to Submit Your Product
 
 A curated list of **50 free SaaS directories** where you can submit your software product to gain visibility, backlinks, and early users. All directories on this list offer free submissions.
 
